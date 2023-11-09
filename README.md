@@ -60,7 +60,7 @@
 ### 🤝Социальные сети:
 <p align="left">
 <a href="https://instagram.com/grekhovnyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grekhovnyy" height="30" width="40" /></a>
-<a href="https://discord.gg/4528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4528" height="30" width="40" /></a>
+<a href="https://discord.gg/Grekhovnyy#4528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4528" height="30" width="40" /></a>
 </p>
 
 ### ⚙️ GitHub статистика:
